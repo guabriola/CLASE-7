@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    size: 15px;
+    
+}
+
+.cabecera {
+    background: #E6E6E6;
+    text-align: center;
+}
+
+h1.nombre {
+    background: #C4C4C4;
+    color: #005677;
+    font-size: 30px;
+    line-height: 50px;
+    letter-spacing: 0.5em;
+}
+
+h2.subtitulo {
+    background: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 0.2em;
+
+}
+
+.TituloLista {
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}
+
+footer {
+    background: #005677;
+    color: #dcd8d8;
+    font-size: 18px;
+    text-align: center;
+    line-height: 30px;
+
+}
