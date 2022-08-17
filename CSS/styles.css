@@ -34,9 +34,19 @@ h2.subtitulo {
 
 footer {
     background: #005677;
+    padding-bottom: 40;
+    text-align: center;
+
+}
+
+span.name{
     color: #dcd8d8;
     font-size: 18px;
-    text-align: center;
-    line-height: 30px;
+    line-height: 35px;
+}
 
+.icono {
+    padding: 0 5px;
+    width: 20px;
+    vertical-align:text-bottom;
 }
